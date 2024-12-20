@@ -24,7 +24,7 @@ Sample description
 
 4. **Start the Application**:  
    ```bash  
-   command to start the app
+   npm run dev
    ```  
 
 ---
