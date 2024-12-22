@@ -6,9 +6,8 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 # Sample <Typescript/NextJs>
 
-Sample description
+Nexus is a modern Next.js frontend framework powered by Daytona, designed for rapid development, scalability, and performance. It delivers responsive, user-friendly interfaces for dynamic web applications.
 
----
 
 ## 🚀 Getting Started  
 
